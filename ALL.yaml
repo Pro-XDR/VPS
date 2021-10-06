@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Pro-XDR 
-Pro-XDR
-/
-VPS
-Public
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-VPS/ALL.yaml
-@Pro-XDR
-Pro-XDR Rename ALL to ALL.yaml
-Latest commit 5338802 1 hour ago
- History
- 1 contributor
-11324 lines (11324 sloc)  584 KB
-   
 port: 7890
 socks-port: 7891
 allow-lan: true
